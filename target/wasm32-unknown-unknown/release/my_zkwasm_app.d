@@ -1,0 +1,1 @@
+/home/zhangzhihao/zkwasm-dapp-starter/my-zkwasm-app/target/wasm32-unknown-unknown/release/my_zkwasm_app.wasm: /home/zhangzhihao/zkwasm-dapp-starter/my-zkwasm-app/src/config.rs /home/zhangzhihao/zkwasm-dapp-starter/my-zkwasm-app/src/lib.rs /home/zhangzhihao/zkwasm-dapp-starter/my-zkwasm-app/src/settlement.rs /home/zhangzhihao/zkwasm-dapp-starter/my-zkwasm-app/src/state.rs
