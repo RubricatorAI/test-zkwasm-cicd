@@ -1,0 +1,16 @@
+{
+  "project": {
+    "name": "my-zkwasm-app",
+    "version": "0.1.0",
+    "author": "arriviste",
+    "description": "hell world"
+  },
+  "build": {
+    "target": "wasm32-unknown-unknown",
+    "optimize": true
+  },
+  "deployment": {
+    "environment": "development",
+    "auto_check": true
+  }
+}
